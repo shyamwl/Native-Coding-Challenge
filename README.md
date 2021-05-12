@@ -1,7 +1,7 @@
 
 # React Native - Coding Challenge
 
-WebsiteLearners is looking for people who can build awesome products, so we created this challenge to test our candidates' overall developer skills.
+Website Learners is looking for people who can build awesome products, so we created this challenge to test our candidates' overall developer skills.
 
 ## Instructions
 #### 1. Build your app
